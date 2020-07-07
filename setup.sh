@@ -20,7 +20,8 @@ open "Blue Matrix.itermcolors"
 rm -rf "Blue Matrix.itermcolors"
 
 npm install -g spaceship-prompt
-
+npm i -g macdarkmode
+darkmode true
 
 # Set up git
 
