@@ -1,7 +1,5 @@
 # Pythons
 brew 'python3'
-brew 'pypy'
-brew 'pypy3'
 # the zsh shell
 brew 'zsh'
 # this which will allow us to copy from within tmux / tmate
