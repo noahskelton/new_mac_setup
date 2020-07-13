@@ -25,3 +25,4 @@ cask 'whatsapp'
 cask 'slack'
 cask 'iterm2'
 cask 'typinator'
+
