@@ -10,9 +10,6 @@ brew tap homebrew/bundle
 brew bundle
 rm -rf Brewfile
 
-brew tap mongodb/brew
-brew install mongodb-community@4.2
-
 # virtualenv
 pip3 install virtualenv
 # Without this, you get asked the first time you make a virtualenv
