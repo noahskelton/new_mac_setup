@@ -10,6 +10,7 @@ brew 'tmate'
 # Package manager for Node.js
 brew 'npm'
 brew 'lnav'
+brew 'romkatv/powerlevel10k/powerlevel10k'
 
 tap 'homebrew/cask'
 cask 'pycharm'
