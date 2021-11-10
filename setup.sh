@@ -10,7 +10,7 @@ curl -O https://raw.githubusercontent.com/calmoo/new_mac_setup/master/Brewfile
 brew tap homebrew/bundle
 brew bundle
 rm -rf Brewfile
-
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
 # virtualenv
 pip3 install virtualenv
 # Without this, you get asked the first time you make a virtualenv
